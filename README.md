@@ -77,7 +77,7 @@ export default {
       selectFirst: false,
 
       // Override the default value (`q`) of query parameter name
-      // Use a falsy value for RESTful query
+      // Use a false value for RESTful query
       // (optional)
       queryParamName: 'search'
     }
